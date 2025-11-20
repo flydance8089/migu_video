@@ -1,3 +1,5 @@
+name: Upstream migu_video
+
 permissions:
     contents: write
 
