@@ -196,6 +196,10 @@ const server = http.createServer(async (req, res) => {
       })
 
       const location = obj.headers.get("Location")
+
+      if (location == "" || location == undefined || location == null) {
+        continue
+      }
       if (location.startsWith("http://hlsz")) {
         resObj.url = location
         break
