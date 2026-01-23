@@ -35,7 +35,6 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1187219412
 江西卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=202601230641388bcb8c11616a46f0be71d13545ad76da&mdspid=&spid=600633&netType=4&sid=5910021492&pid=2028597139&timestamp=20260123064138&Channel_ID=0116_2600001300-99000-201600010012873&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=114.252.41.227&SecurityKey=20260123064138&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=b2321b136805aa13b85d14418eb4195e
 兵团卫视,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/btws/51/20250804/index.m3u8?msisdn=2026012306400633f5d923d0a14f92a36ce56b3e1d3a83&mdspid=&spid=600697&netType=4&sid=5910022192&pid=2028597139&timestamp=20260123064006&Channel_ID=0116_2600001300-99000-201600010012870&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=114.252.41.82&SecurityKey=20260123064006&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-9.1.1.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=38023db13890535e82d5ae5a4eb01913
 广东地区,#genre#
-广东民生,http://183.11.239.36:808/hls/18/index.m3u8
 广东体育,http://120.238.85.131:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://120.238.85.131:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
 广东4K超高清,http://183.11.239.36:808/hls/9/index.m3u8
@@ -89,6 +88,7 @@ CCTV17农业农村,http://pull-hs-f5.flive.douyincdn.com/media/stream-1187219412
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
 无锡娱乐,http://stream.thmz.com/wxtv2/sd/live.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8
+宜兴新闻综合,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8
 北京地区,#genre#
 黑龙江地区,#genre#
 哈尔滨新闻综合,https://stream.hrbtv.net/xwzh/sd/live.m3u8
