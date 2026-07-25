@@ -10,9 +10,10 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-408013305740788
 广东地区,#genre#
 广东嘉佳卡通,http://183.234.143.5:85/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
 广东少儿,http://183.234.143.5:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+广东影视,http://183.234.143.5:85/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0
 广东影视,http://120.238.85.131:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+深圳少儿,http://120.233.73.4:19901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 深圳都市,http://120.233.73.4:19901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳都市,http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 湖南地区,#genre#
 浙江地区,#genre#
 浙江少儿,http://ali-xwl.cztv.com/live/channel081080Plxw.m3u8
@@ -53,7 +54,6 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-408013305740788
 南京文旅纪录,http://nklive.nbs.cn/hls/9b2005c4-046c-422f-ba45-e6adc4f4de07/index.m3u8
 南京十八生活,http://nklive.nbs.cn/hls/1173a815-bfdb-4c3c-9f73-89ec37ae7716/index.m3u8
 南京少儿,http://nklive.nbs.cn/hls/e0981f3f-1a20-4a59-b8d1-17feb83a4610/index.m3u8
-海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
 沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
@@ -98,7 +98,6 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-408013305740788
 重庆地区,#genre#
 辽宁地区,#genre#
 四川地区,#genre#
-泸州3,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel103074/playlist.m3u8
 云南地区,#genre#
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 腾冲综合,http://live.ynurl.com/video/s10012-TCTV/index.m3u8
@@ -250,6 +249,7 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-408013305740788
 新密新闻频道,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
 湖北地区,#genre#
 山东地区,#genre#
+菏泽2,http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8
 新疆地区,#genre#
 山西地区,#genre#
 天津地区,#genre#
@@ -299,7 +299,7 @@ CCTV17农业农村,http://pull-hls-f1.douyincdn.com/media/stream-408013305740788
 青海地区,#genre#
 超清频道,#genre#
 CCTV2超清,http://pull-hls-f1.douyincdn.com/media/stream-407987562509501100/playlist.m3u8?keeptime=00093a80&wsSecret=1115e9e400223e495145e4b5a87e247d&wsTime=6a633b3d&arch_hrchy=w1&exp_hrchy=w1&major_anchor_level=common&t_id=037-202607241815256087FC33BC53AE143600-sjhBjy
-CCTV3超清,http://txycdn3.video.qq.com/1370781402.m3u8?time=1784884220&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIPiiUiQPQnogE5gPGKNhSPitJY8cMwWLt5PlVeXuF5JSEKm-WFevV4vbOu8ZvcHfU4sBcGFd7u8HBV65h5FvpxgVfUfMoze4Np_XSpoPOgWF9xjpuHHu-5Ixdilh8B2ELMj5om1o3l93oLosZ24qkS5Wi6Pif0hYNK2fhLKqJy51EJv_JSdIfnVJam1cYmBOwCGpkUU0XFqP6BRRsPNJiFpjLZHoLZJfdHEiY9Z4_BxXr9JzwVVSjs8t-L0N6raJyeN_6Stv3wsI-cUmuM_5gHevWwWnwi8pKFSl80tEbqYRCXjgqmjJKrFE-EW0R4jGze9wG2WbdqgE4-r84JulWhTuCEzdkik7NBMwKnCbu3n6o7_TNQf2EygXF9kShArd0eAiVvHrBb0xfPxrKpw1agNMFZbTtVZuoRr4dtMZvqFozcZFU2_eGfToCSUFQy_ZhELyvFIeuiLNfOjtFirMEvs9oLXpsCIkWykpZLp4nHgxZLXngIKU2JsRXkd2tjFlePIE7uAgaBJiQ5-F7pA1XDSdJawalHoMWwC3oMYifgoniTk6&drmtype=0
+CCTV9超清,http://txycdn1.video.qq.com/1755788302.m3u8?time=1784959171&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIHc1anwmfSw0kXNQa-jbD8PqcfyhpFsdnT6P987UQrpZEJJBbcGr0qFrmloRTOTOpw0BcPzcAfKAzrTPB49NUQYPXWFBfH4xgXT4lnx7Az_9SKDMBe2xmzj1U-wdf3KRmPadV1dj2X_Th4hiRib_ex7AimX9hw2WeXjWZR_fwerF6NLQL00GbKRcugIPeC8gJLCdaHfm2DRg_tJIbwvA9dsDwm7MFUlQbdDVuYFaGKAodzHUGA_xqDfQUeli5ZqYgXsXGVMOK_8KuhSfImQLBtgle1Cd_UKeokEOAdst-HH7vNgOkM58S52tKRfxtwV9oOnS9-hO4kLd15rJZcOk1yviqyGzlqhA-aGkZtKUU_6mZf35Itf1_WI0sPRkWRGv9oFRNh8KSpp8x9DSdlFvE4FR15iwx97aWs4XqTffkUsZiSJ3F37czE47RUGpZATxI9TqQ5-a8s6ijuqRiKZMEfXX4n2iC_Jm54hXswstOKSz0FKteIHCIC4QRxtax0T96vccUzIvDF9WYmuk8CLBsTg9qbYQOk46F7s2CzkyMnwVbTqH&drmtype=0
 CCTV16超清,http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 CCTV17超清,http://pull-hls-f1.douyincdn.com/media/stream-408013305740788396/playlist.m3u8?keeptime=00093a80&wsSecret=c50e3c5d73c29701ee1f22826d9de53b&wsTime=6a640d11&major_anchor_level=common&arch_hrchy=w1&exp_hrchy=w1&t_id=037-202607250910411CE740C47324E93AFEB6-ENUvUB
 湖南卫视超清,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
